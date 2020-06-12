@@ -1,0 +1,10 @@
+@media (max-width: 1699px) {
+  .blog-text {
+    width: 90%;
+  }
+}
+@media (max-width: 1560px) {
+  .blog-text {
+    width: 92%;
+  }
+}
